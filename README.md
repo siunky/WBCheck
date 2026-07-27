@@ -1,0 +1,1 @@
+--Extract the 'WBCheck-main' and import the 'WBCheck file' into your addons folder.
