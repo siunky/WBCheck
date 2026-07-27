@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: WB Check
+## Author: Starsurgehot
+## Version: 1.0.2
+## Notes: Responds to "1wbcheck" by checking PvE/PvP/Merc Mode. MADE BY STARSURGEHOT (slunky03 on discord)
+## SavedVariables:
+
+WBCheck.lua
