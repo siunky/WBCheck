@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: Ascension Absorbs
+## Author: Starsurgehot
+## Version: 1.0.1
+
+AscensionAbsorbs.lua
