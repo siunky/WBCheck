@@ -1,6 +1,0 @@
-## Interface: 30300
-## Title: Ascension Absorbs No Text
-## Author: Starsurgehot
-## Version: 1.0.1
-
-AscensionAbsorbsNoText.lua
