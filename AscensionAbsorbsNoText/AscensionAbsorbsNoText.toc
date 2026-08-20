@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Ascension Absorbs No Text
+## Notes: Displays absorb shields as bars on ElvUI unit frames.
+## Author: StarsurgeHot
+## Version: 1.0.0
+
+AscensionAbsorbsNoText.lua
